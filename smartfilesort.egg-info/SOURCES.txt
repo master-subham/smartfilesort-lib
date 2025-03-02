@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+smartfilesort/__init__.py
+smartfilesort/smartfilesort.py
+smartfilesort.egg-info/PKG-INFO
+smartfilesort.egg-info/SOURCES.txt
+smartfilesort.egg-info/dependency_links.txt
+smartfilesort.egg-info/entry_points.txt
+smartfilesort.egg-info/requires.txt
+smartfilesort.egg-info/top_level.txt
